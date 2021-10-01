@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'basket-ville';
+					src: url('https://www.rbz-technik.de/media/useanyfont/1766Basket-Ville.woff2') format('woff2'),
+						url('https://www.rbz-technik.de/media/useanyfont/1766Basket-Ville.woff') format('woff');
+					font-display: auto;
+				}
+
+				.basket-ville{font-family: 'basket-ville' !important;}
+
+		

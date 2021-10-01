@@ -1,0 +1,22 @@
+.elementor-kit-42{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-45d1c723:#4054B2;--e-global-color-239e5d85:#23A455;--e-global-color-163ddcbc:#000;--e-global-color-74a1d77e:#FFF;--e-global-color-5c438c16:#00A5EA;--e-global-color-23dca8cf:#02AB81;--e-global-color-32ff4148:#020101;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;color:#000000;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-lightbox{--lightbox-text-color:#000000;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1025px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:768px;}}/* Start custom CSS */.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+    padding: 10px;
+    padding-bottom: 100px;
+}
+    
+@media only screen and (max-width: 550px) {
+
+#colibri .style-54 h1 {
+    color: #FFFFFF;
+    font-size: 35px;
+}
+
+    }
+
+    @media only screen and (min-width: 550px) {
+
+#colibri .style-54 h1 {
+    color: #FFFFFF;
+    font-size: 54px;
+}
+
+    }/* End custom CSS */
